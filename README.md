@@ -1,4 +1,4 @@
-# first project
+# First
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
@@ -8,7 +8,7 @@
 
 - [Demo Project](https://ELHAMsh1988.github.io/Accordion-Menu-By-react/)
 
--🦋 Developed by Elham Shahriari
+- 🦋 Developed by Elham Shahriari
 
 - Created - 2023-09-26
 
